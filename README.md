@@ -1,1 +1,1 @@
-# SCM
+This is a repository.
